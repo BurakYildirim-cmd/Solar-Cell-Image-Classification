@@ -113,9 +113,3 @@ Model performance was evaluated using:
 - TensorBoard logging
 - ONNX / TensorRT export
 - Web deployment with Streamlit
-
----
-
-## Author
-
-Burak Yıldırım
